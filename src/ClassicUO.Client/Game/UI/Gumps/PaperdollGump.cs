@@ -289,7 +289,7 @@ namespace ClassicUO.Game.UI.Gumps
             Add(_virtueMenuPic = new GumpPic(80, 4, 0x0071, 0));
             _virtueMenuPic.MouseDoubleClick += VirtueMenu_MouseDoubleClickEvent;
 
-            // Equipment slots for hat/earrings/neck/ring/bracelet
+             //Equipment slots for hat/earrings/neck/ring/bracelet
             Add(_slots[0] = new EquipmentSlot(0, 2, 75, Layer.Helmet, this));
 
             Add(_slots[1] = new EquipmentSlot(0, 2, 75 + 21, Layer.Earrings, this));

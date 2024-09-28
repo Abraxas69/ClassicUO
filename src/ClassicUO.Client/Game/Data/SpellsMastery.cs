@@ -62,7 +62,7 @@ namespace ClassicUO.Game.Data
                     1,
                     new SpellDefinition
                     (
-                        "Inspire",
+                        "Ispirare",
                         701,
                         0x945,
                         0x945,
@@ -78,7 +78,7 @@ namespace ClassicUO.Game.Data
                     2,
                     new SpellDefinition
                     (
-                        "Invigorate",
+                        "Invigorire",
                         702,
                         0x946,
                         0x946,
@@ -94,7 +94,7 @@ namespace ClassicUO.Game.Data
                     3,
                     new SpellDefinition
                     (
-                        "Resilience",
+                        "Resilienza",
                         703,
                         0x947,
                         0x947,
@@ -110,7 +110,7 @@ namespace ClassicUO.Game.Data
                     4,
                     new SpellDefinition
                     (
-                        "Perseverance",
+                        "Perseveranza",
                         704,
                         0x948,
                         0x948,
@@ -126,7 +126,7 @@ namespace ClassicUO.Game.Data
                     5,
                     new SpellDefinition
                     (
-                        "Tribulation",
+                        "Tribolazione",
                         705,
                         0x949,
                         0x949,
@@ -142,7 +142,7 @@ namespace ClassicUO.Game.Data
                     6,
                     new SpellDefinition
                     (
-                        "Despair",
+                        "Disperazione",
                         706,
                         0x94A,
                         0x94A,
@@ -154,7 +154,7 @@ namespace ClassicUO.Game.Data
                         Reagents.None
                     )
                 },
-                {
+                /*{
                     7,
                     new SpellDefinition
                     (
@@ -724,7 +724,7 @@ namespace ClassicUO.Game.Data
                         0,
                         TargetType.Neutral
                     )
-                }
+                }*/
             };
         }
 

@@ -48,7 +48,7 @@ namespace ClassicUO.Game.Data
                     1,
                     new SpellDefinition
                     (
-                        "Animate Dead",
+                        "Animare i Morti",
                         101,
                         0x5000,
                         "Uus Corp",
@@ -63,7 +63,7 @@ namespace ClassicUO.Game.Data
                     2,
                     new SpellDefinition
                     (
-                        "Blood Oath",
+                        "Patto di Sangue",
                         102,
                         0x5001,
                         "In Jux Mani Xen",
@@ -77,7 +77,7 @@ namespace ClassicUO.Game.Data
                     3,
                     new SpellDefinition
                     (
-                        "Corpse Skin",
+                        "Pelle Cadaverica",
                         103,
                         0x5002,
                         "In Agle Corp Ylem",
@@ -92,12 +92,12 @@ namespace ClassicUO.Game.Data
                     4,
                     new SpellDefinition
                     (
-                        "Curse Weapon",
+                        "Maledizione",
                         104,
                         0x5003,
                         "An Sanct Gra Char",
-                        7,
-                        0,
+                        11,
+                        24,
                         TargetType.Neutral,
                         Reagents.PigIron
                     )
@@ -106,7 +106,7 @@ namespace ClassicUO.Game.Data
                     5,
                     new SpellDefinition
                     (
-                        "Evil Omen",
+                        "Presagio Oscuro",
                         105,
                         0x5004,
                         "Pas Tym An Sanct",
@@ -121,7 +121,7 @@ namespace ClassicUO.Game.Data
                     6,
                     new SpellDefinition
                     (
-                        "Horrific Beast",
+                        "Richiamare il Male",
                         106,
                         0x5005,
                         "Rel Xen Vas Bal",
@@ -136,7 +136,7 @@ namespace ClassicUO.Game.Data
                     7,
                     new SpellDefinition
                     (
-                        "Lich Form",
+                        "Forma di Lich",
                         107,
                         0x5006,
                         "Rel Xen Corp Ort",
@@ -152,7 +152,7 @@ namespace ClassicUO.Game.Data
                     8,
                     new SpellDefinition
                     (
-                        "Mind Rot",
+                        "Marciscenza Encefalica",
                         108,
                         0x5007,
                         "Wis An Ben",
@@ -168,7 +168,7 @@ namespace ClassicUO.Game.Data
                     9,
                     new SpellDefinition
                     (
-                        "Pain Spike",
+                        "Dolore",
                         109,
                         0x5008,
                         "In Sar",
@@ -183,7 +183,7 @@ namespace ClassicUO.Game.Data
                     10,
                     new SpellDefinition
                     (
-                        "Poison Strike",
+                        "Colpo Velenoso",
                         110,
                         0x5009,
                         "In Vas Nox",
@@ -197,7 +197,7 @@ namespace ClassicUO.Game.Data
                     11,
                     new SpellDefinition
                     (
-                        "Strangle",
+                        "Strngolamento",
                         111,
                         0x500A,
                         "In Bal Nox",
@@ -212,7 +212,7 @@ namespace ClassicUO.Game.Data
                     12,
                     new SpellDefinition
                     (
-                        "Summon Familiar",
+                        "Evoca Famiglio",
                         112,
                         0x500B,
                         "Kal Xen Bal",
@@ -228,7 +228,7 @@ namespace ClassicUO.Game.Data
                     13,
                     new SpellDefinition
                     (
-                        "Vampiric Embrace",
+                        "Abbraccio Vampirico",
                         113,
                         0x500C,
                         "Rel Xen An Sanct",
@@ -244,7 +244,7 @@ namespace ClassicUO.Game.Data
                     14,
                     new SpellDefinition
                     (
-                        "Vengeful Spirit",
+                        "Spirito Vendicativo",
                         114,
                         0x500D,
                         "Kal Xen Bal Beh",
@@ -260,7 +260,7 @@ namespace ClassicUO.Game.Data
                     15,
                     new SpellDefinition
                     (
-                        "Wither",
+                        "Appassire",
                         115,
                         0x500E,
                         "Kal Vas An Flam",
@@ -276,7 +276,7 @@ namespace ClassicUO.Game.Data
                     16,
                     new SpellDefinition
                     (
-                        "Wraith Form",
+                        "Forma di Wraith",
                         116,
                         0x500F,
                         "Rel Xen Um",
@@ -291,12 +291,12 @@ namespace ClassicUO.Game.Data
                     17,
                     new SpellDefinition
                     (
-                        "Exorcism",
+                        "Dardo caotico",
                         117,
                         0x5010,
                         "Ort Corp Grav",
-                        40,
-                        80,
+                        9,
+                        30,
                         TargetType.Neutral,
                         Reagents.NoxCrystal,
                         Reagents.GraveDust

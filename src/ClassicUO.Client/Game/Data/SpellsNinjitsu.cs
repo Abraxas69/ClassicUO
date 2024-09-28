@@ -48,7 +48,7 @@ namespace ClassicUO.Game.Data
                     1,
                     new SpellDefinition
                     (
-                        "Focus Attack",
+                        "Attacco concentrato",
                         501,
                         0x5320,
                         string.Empty,
@@ -62,7 +62,7 @@ namespace ClassicUO.Game.Data
                     2,
                     new SpellDefinition
                     (
-                        "Death Strike",
+                        "Assassinio",
                         502,
                         0x5321,
                         string.Empty,
@@ -76,11 +76,11 @@ namespace ClassicUO.Game.Data
                     3,
                     new SpellDefinition
                     (
-                        "Animal Form",
+                        "Colpo fulminante",
                         503,
                         0x5322,
                         string.Empty,
-                        0,
+                        50,
                         10,
                         TargetType.Beneficial,
                         Reagents.None
@@ -90,7 +90,7 @@ namespace ClassicUO.Game.Data
                     4,
                     new SpellDefinition
                     (
-                        "Ki Attack",
+                        "Scatto",
                         504,
                         0x5323,
                         string.Empty,
@@ -104,7 +104,7 @@ namespace ClassicUO.Game.Data
                     5,
                     new SpellDefinition
                     (
-                        "Surprise Attack",
+                        "Attacco a sorpresa",
                         505,
                         0x5324,
                         string.Empty,
@@ -132,7 +132,7 @@ namespace ClassicUO.Game.Data
                     7,
                     new SpellDefinition
                     (
-                        "Shadowjump",
+                        "Salto nell'ombra",
                         507,
                         0x5326,
                         string.Empty,
@@ -146,7 +146,7 @@ namespace ClassicUO.Game.Data
                     8,
                     new SpellDefinition
                     (
-                        "Mirror Image",
+                        "Immagine illusoria",
                         508,
                         0x5327,
                         string.Empty,

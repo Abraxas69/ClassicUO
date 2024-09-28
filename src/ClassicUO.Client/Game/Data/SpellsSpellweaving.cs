@@ -48,7 +48,7 @@ namespace ClassicUO.Game.Data
                     1,
                     new SpellDefinition
                     (
-                        "Arcane Circle",
+                        "Circolo Druidico",
                         601,
                         0x59D8,
                         "Myrshalee",
@@ -62,7 +62,7 @@ namespace ClassicUO.Game.Data
                     2,
                     new SpellDefinition
                     (
-                        "Gift of Renewal",
+                        "Dono della Rigenerazione",
                         602,
                         0x59D9,
                         "Olorisstra",
@@ -76,7 +76,7 @@ namespace ClassicUO.Game.Data
                     3,
                     new SpellDefinition
                     (
-                        "Immolating Weapon",
+                        "Immolare l'Arma",
                         603,
                         0x59DA,
                         "Thalshara",
@@ -90,7 +90,7 @@ namespace ClassicUO.Game.Data
                     4,
                     new SpellDefinition
                     (
-                        "Attune Weapon",
+                        "Pelle Coriacea",
                         604,
                         0x59DB,
                         "Haeldril",
@@ -104,7 +104,7 @@ namespace ClassicUO.Game.Data
                     5,
                     new SpellDefinition
                     (
-                        "Thunderstorm",
+                        "Tempesta di Fulmini",
                         605,
                         0x59DC,
                         "Erelonia",
@@ -118,7 +118,7 @@ namespace ClassicUO.Game.Data
                     6,
                     new SpellDefinition
                     (
-                        "Nature's Fury",
+                        "Furia della Natura",
                         606,
                         0x59DD,
                         "Rauvvrae",
@@ -132,7 +132,7 @@ namespace ClassicUO.Game.Data
                     7,
                     new SpellDefinition
                     (
-                        "Summon Fey",
+                        "Evoca Fate",
                         607,
                         0x59DE,
                         "Alalithra",
@@ -146,7 +146,7 @@ namespace ClassicUO.Game.Data
                     8,
                     new SpellDefinition
                     (
-                        "Summon Fiend",
+                        "Evoca Diavoli",
                         608,
                         0x59DF,
                         "Nylisstra",
@@ -160,7 +160,7 @@ namespace ClassicUO.Game.Data
                     9,
                     new SpellDefinition
                     (
-                        "Reaper Form",
+                        "Forma di Mietitore",
                         609,
                         0x59E0,
                         "Tarisstree",
@@ -174,7 +174,7 @@ namespace ClassicUO.Game.Data
                     10,
                     new SpellDefinition
                     (
-                        "Wildfire",
+                        "Tempesta di Fuoco",
                         610,
                         0x59E1,
                         "Haelyn",
@@ -188,7 +188,7 @@ namespace ClassicUO.Game.Data
                     11,
                     new SpellDefinition
                     (
-                        "Essence of Wind",
+                        "Essenza del Vento",
                         611,
                         0x59E2,
                         "Anathrae",
@@ -202,7 +202,7 @@ namespace ClassicUO.Game.Data
                     12,
                     new SpellDefinition
                     (
-                        "Dryad Allure",
+                        "Fascino della Driade",
                         612,
                         0x59E3,
                         "Rathril",
@@ -216,7 +216,7 @@ namespace ClassicUO.Game.Data
                     13,
                     new SpellDefinition
                     (
-                        "Ethereal Voyage",
+                        "Forma Eterea",
                         613,
                         0x59E4,
                         "Orlavdra",
@@ -230,7 +230,7 @@ namespace ClassicUO.Game.Data
                     14,
                     new SpellDefinition
                     (
-                        "Word of Death",
+                        "Parola della Morte",
                         614,
                         0x59E5,
                         "Nyraxle",
@@ -244,7 +244,7 @@ namespace ClassicUO.Game.Data
                     15,
                     new SpellDefinition
                     (
-                        "Gift of Life",
+                        "Dono della Vita",
                         615,
                         0x59E6,
                         "Illorae",
@@ -258,7 +258,7 @@ namespace ClassicUO.Game.Data
                     16,
                     new SpellDefinition
                     (
-                        "Arcane Empowerment",
+                        "Potenziamento Arcano",
                         616,
                         0x59E7,
                         "Aslavdra",
