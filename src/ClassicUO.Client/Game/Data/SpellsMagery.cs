@@ -52,7 +52,7 @@ namespace ClassicUO.Game.Data
                     1,
                     new SpellDefinition
                     (
-                        "Clumsy",
+                        "Goffo",
                         1,
                         0x1B58,
                         "Uus Jux",
@@ -65,7 +65,7 @@ namespace ClassicUO.Game.Data
                     2,
                     new SpellDefinition
                     (
-                        "Create Food",
+                        "Crea Cibo",
                         2,
                         0x1B59,
                         "In Mani Ylem",
@@ -79,7 +79,7 @@ namespace ClassicUO.Game.Data
                     3,
                     new SpellDefinition
                     (
-                        "Feeblemind",
+                        "Mente febbrile",
                         3,
                         0x1B5A,
                         "Rel Wis",
@@ -92,7 +92,7 @@ namespace ClassicUO.Game.Data
                     4,
                     new SpellDefinition
                     (
-                        "Heal",
+                        "Cura",
                         4,
                         0x1B5B,
                         "In Mani",
@@ -106,7 +106,7 @@ namespace ClassicUO.Game.Data
                     5,
                     new SpellDefinition
                     (
-                        "Magic Arrow",
+                        "Dardo Incantato",
                         5,
                         0x1B5C,
                         "In Por Ylem",
@@ -118,7 +118,7 @@ namespace ClassicUO.Game.Data
                     6,
                     new SpellDefinition
                     (
-                        "Night Sight",
+                        "Scurovisione",
                         6,
                         0x1B5D,
                         "In Lor",
@@ -131,7 +131,7 @@ namespace ClassicUO.Game.Data
                     7,
                     new SpellDefinition
                     (
-                        "Reactive Armor",
+                        "Armatura Reattiva",
                         7,
                         0x1B5E,
                         "Flam Sanct",
@@ -145,7 +145,7 @@ namespace ClassicUO.Game.Data
                     8,
                     new SpellDefinition
                     (
-                        "Weaken",
+                        "Debolezza",
                         8,
                         0x1B5F,
                         "Des Mani",
@@ -159,7 +159,7 @@ namespace ClassicUO.Game.Data
                     9,
                     new SpellDefinition
                     (
-                        "Agility",
+                        "Agilita'",
                         9,
                         0x1B60,
                         "Ex Uus",
@@ -172,7 +172,7 @@ namespace ClassicUO.Game.Data
                     10,
                     new SpellDefinition
                     (
-                        "Cunning",
+                        "Astuzia",
                         10,
                         0x1B61,
                         "Uus Wis",
@@ -185,7 +185,7 @@ namespace ClassicUO.Game.Data
                     11,
                     new SpellDefinition
                     (
-                        "Cure",
+                        "Antidoto",
                         11,
                         0x1B62,
                         "An Nox",
@@ -198,7 +198,7 @@ namespace ClassicUO.Game.Data
                     12,
                     new SpellDefinition
                     (
-                        "Harm",
+                        "Ferire",
                         12,
                         0x1B63,
                         "An Mani",
@@ -211,7 +211,7 @@ namespace ClassicUO.Game.Data
                     13,
                     new SpellDefinition
                     (
-                        "Magic Trap",
+                        "Trappola Magica",
                         13,
                         0x1B64,
                         "In Jux",
@@ -225,7 +225,7 @@ namespace ClassicUO.Game.Data
                     14,
                     new SpellDefinition
                     (
-                        "Magic Untrap",
+                        "Disarmo Magico",
                         14,
                         0x1B65,
                         "An Jux",
@@ -238,7 +238,7 @@ namespace ClassicUO.Game.Data
                     15,
                     new SpellDefinition
                     (
-                        "Protection",
+                        "Protezione",
                         15,
                         0x1B66,
                         "Uus Sanct",
@@ -252,7 +252,7 @@ namespace ClassicUO.Game.Data
                     16,
                     new SpellDefinition
                     (
-                        "Strength",
+                        "Forza",
                         16,
                         0x1B67,
                         "Uus Mani",
@@ -266,7 +266,7 @@ namespace ClassicUO.Game.Data
                     17,
                     new SpellDefinition
                     (
-                        "Bless",
+                        "Benedeire",
                         17,
                         0x1B68,
                         "Rel Sanct",
@@ -278,7 +278,7 @@ namespace ClassicUO.Game.Data
                 {
                     18, new SpellDefinition
                     (
-                        "Fireball",
+                        "Palla di Fuoco",
                         18,
                         0x1B69,
                         "Vas Flam",
@@ -290,7 +290,7 @@ namespace ClassicUO.Game.Data
                     19,
                     new SpellDefinition
                     (
-                        "Magic Lock",
+                        "Lucchetto Magico",
                         19,
                         0x1B6a,
                         "An Por",
@@ -303,7 +303,7 @@ namespace ClassicUO.Game.Data
                 {
                     20, new SpellDefinition
                     (
-                        "Poison",
+                        "Avvelenare",
                         20,
                         0x1B6b,
                         "In Nox",
@@ -315,7 +315,7 @@ namespace ClassicUO.Game.Data
                     21,
                     new SpellDefinition
                     (
-                        "Telekinesis",
+                        "Telecinesi",
                         21,
                         0x1B6c,
                         "Ort Por Ylem",
@@ -328,7 +328,7 @@ namespace ClassicUO.Game.Data
                     22,
                     new SpellDefinition
                     (
-                        "Teleport",
+                        "Teletrasporto",
                         22,
                         0x1B6d,
                         "Rel Por",
@@ -341,7 +341,7 @@ namespace ClassicUO.Game.Data
                     23,
                     new SpellDefinition
                     (
-                        "Unlock",
+                        "Sbloccare",
                         23,
                         0x1B6e,
                         "Ex Por",
@@ -354,7 +354,7 @@ namespace ClassicUO.Game.Data
                     24,
                     new SpellDefinition
                     (
-                        "Wall of Stone",
+                        "Muro di Pietra",
                         24,
                         0x1B6f,
                         "In Sanct Ylem",
@@ -368,7 +368,7 @@ namespace ClassicUO.Game.Data
                     25,
                     new SpellDefinition
                     (
-                        "Arch Cure",
+                        "Antitodo di Massa",
                         25,
                         0x1B70,
                         "Vas An Nox",
@@ -382,7 +382,7 @@ namespace ClassicUO.Game.Data
                     26,
                     new SpellDefinition
                     (
-                        "Arch Protection",
+                        "Protezione di Massa",
                         26,
                         0x1B71,
                         "Vas Uus Sanct",
@@ -397,7 +397,7 @@ namespace ClassicUO.Game.Data
                     27,
                     new SpellDefinition
                     (
-                        "Curse",
+                        "Maledizione",
                         27,
                         0x1B72,
                         "Des Sanct",
@@ -411,7 +411,7 @@ namespace ClassicUO.Game.Data
                     28,
                     new SpellDefinition
                     (
-                        "Fire Field",
+                        "Muro di Fuoco",
                         28,
                         0x1B73,
                         "In Flam Grav",
@@ -425,7 +425,7 @@ namespace ClassicUO.Game.Data
                     29,
                     new SpellDefinition
                     (
-                        "Greater Heal",
+                        "Cura Maggiore",
                         29,
                         0x1B74,
                         "In Vas Mani",
@@ -440,7 +440,7 @@ namespace ClassicUO.Game.Data
                     30,
                     new SpellDefinition
                     (
-                        "Lightning",
+                        "Fulmine",
                         30,
                         0x1B75,
                         "Por Ort Grav",
@@ -453,7 +453,7 @@ namespace ClassicUO.Game.Data
                     31,
                     new SpellDefinition
                     (
-                        "Mana Drain",
+                        "Prosciugare Mana",
                         31,
                         0x1B76,
                         "Ort Rel",
@@ -467,7 +467,7 @@ namespace ClassicUO.Game.Data
                     32,
                     new SpellDefinition
                     (
-                        "Recall",
+                        "Richiamo",
                         32,
                         0x1B77,
                         "Kal Ort Por",
@@ -482,7 +482,7 @@ namespace ClassicUO.Game.Data
                     33,
                     new SpellDefinition
                     (
-                        "Blade Spirits",
+                        "Spirito di Lame",
                         33,
                         0x1B78,
                         "In Jux Hur Ylem",
@@ -496,7 +496,7 @@ namespace ClassicUO.Game.Data
                     34,
                     new SpellDefinition
                     (
-                        "Dispel Field",
+                        "Muro di Dispersione",
                         34,
                         0x1B79,
                         "An Grav",
@@ -525,7 +525,7 @@ namespace ClassicUO.Game.Data
                     36,
                     new SpellDefinition
                     (
-                        "Magic Reflection",
+                        "Riflette il Magico",
                         36,
                         0x1B7b,
                         "In Jux Sanct",
@@ -539,7 +539,7 @@ namespace ClassicUO.Game.Data
                     37,
                     new SpellDefinition
                     (
-                        "Mind Blast",
+                        "Colpo Mentale",
                         37,
                         0x1B7c,
                         "Por Corp Wis",
@@ -554,7 +554,7 @@ namespace ClassicUO.Game.Data
                     38,
                     new SpellDefinition
                     (
-                        "Paralyze",
+                        "Paralisi",
                         38,
                         0x1B7d,
                         "An Ex Por",
@@ -568,7 +568,7 @@ namespace ClassicUO.Game.Data
                     39,
                     new SpellDefinition
                     (
-                        "Poison Field",
+                        "Muro di Veleno",
                         39,
                         0x1B7e,
                         "In Nox Grav",
@@ -582,7 +582,7 @@ namespace ClassicUO.Game.Data
                     40,
                     new SpellDefinition
                     (
-                        "Summon Creature",
+                        "Evoca Destriero",
                         40,
                         0x1B7f,
                         "Kal Xen",
@@ -597,7 +597,7 @@ namespace ClassicUO.Game.Data
                     41,
                     new SpellDefinition
                     (
-                        "Dispel",
+                        "Dispersione",
                         41,
                         0x1B80,
                         "An Ort",
@@ -611,7 +611,7 @@ namespace ClassicUO.Game.Data
                     42,
                     new SpellDefinition
                     (
-                        "Energy Bolt",
+                        "Dardo di Energia",
                         42,
                         0x1B81,
                         "Corp Por",
@@ -624,7 +624,7 @@ namespace ClassicUO.Game.Data
                     43,
                     new SpellDefinition
                     (
-                        "Explosion",
+                        "Esplosione",
                         43,
                         0x1B82,
                         "Vas Ort Flam",
@@ -637,7 +637,7 @@ namespace ClassicUO.Game.Data
                     44,
                     new SpellDefinition
                     (
-                        "Invisibility",
+                        "Invisibilita'",
                         44,
                         0x1B83,
                         "An Lor Xen",
@@ -650,7 +650,7 @@ namespace ClassicUO.Game.Data
                     45,
                     new SpellDefinition
                     (
-                        "Mark",
+                        "Marchiare",
                         45,
                         0x1B84,
                         "Kal Por Ylem",
@@ -664,7 +664,7 @@ namespace ClassicUO.Game.Data
                     46,
                     new SpellDefinition
                     (
-                        "Mass Curse",
+                        "Maledizione di Massa",
                         46,
                         0x1B85,
                         "Vas Des Sanct",
@@ -679,7 +679,7 @@ namespace ClassicUO.Game.Data
                     47,
                     new SpellDefinition
                     (
-                        "Paralyze Field",
+                        "Muro Paralizzante",
                         47,
                         0x1B86,
                         "In Ex Grav",
@@ -693,7 +693,7 @@ namespace ClassicUO.Game.Data
                     48,
                     new SpellDefinition
                     (
-                        "Reveal",
+                        "Rivela",
                         48,
                         0x1B87,
                         "Wis Quas",
@@ -707,7 +707,7 @@ namespace ClassicUO.Game.Data
                     49,
                     new SpellDefinition
                     (
-                        "Chain Lightning",
+                        "Fulmini a Catena",
                         49,
                         0x1B88,
                         "Vas Ort Grav",
@@ -722,7 +722,7 @@ namespace ClassicUO.Game.Data
                     50,
                     new SpellDefinition
                     (
-                        "Energy Field",
+                        "Muro di Energia",
                         50,
                         0x1B89,
                         "In Sanct Grav",
@@ -737,7 +737,7 @@ namespace ClassicUO.Game.Data
                     51,
                     new SpellDefinition
                     (
-                        "Flamestrike",
+                        "Colonna di Fuoco",
                         51,
                         0x1B8a,
                         "Kal Vas Flam",
@@ -750,7 +750,7 @@ namespace ClassicUO.Game.Data
                     52,
                     new SpellDefinition
                     (
-                        "Gate Travel",
+                        "Portale Magico",
                         52,
                         0x1B8b,
                         "Vas Rel Por",
@@ -764,7 +764,7 @@ namespace ClassicUO.Game.Data
                     53,
                     new SpellDefinition
                     (
-                        "Mana Vampire",
+                        "Vampirismo Mentale",
                         53,
                         0x1B8c,
                         "Ort Sanct",
@@ -779,7 +779,7 @@ namespace ClassicUO.Game.Data
                     54,
                     new SpellDefinition
                     (
-                        "Mass Dispel",
+                        "Dispersione di Massa",
                         54,
                         0x1B8d,
                         "Vas An Ort",
@@ -794,7 +794,7 @@ namespace ClassicUO.Game.Data
                     55,
                     new SpellDefinition
                     (
-                        "Meteor Swarm",
+                        "Sciame di Meteore",
                         55,
                         0x1B8e,
                         "Flam Kal Des Ylem",
@@ -809,7 +809,7 @@ namespace ClassicUO.Game.Data
                     56,
                     new SpellDefinition
                     (
-                        "Polymorph",
+                        "Polimorfismo",
                         56,
                         0x1B8f,
                         "Vas Ylem Rel",
@@ -824,7 +824,7 @@ namespace ClassicUO.Game.Data
                     57,
                     new SpellDefinition
                     (
-                        "Earthquake",
+                        "Terremoto",
                         57,
                         0x1B90,
                         "In Vas Por",
@@ -839,7 +839,7 @@ namespace ClassicUO.Game.Data
                     58,
                     new SpellDefinition
                     (
-                        "Energy Vortex",
+                        "Vortice Energetico",
                         58,
                         0x1B91,
                         "Vas Corp Por",
@@ -854,7 +854,7 @@ namespace ClassicUO.Game.Data
                     59,
                     new SpellDefinition
                     (
-                        "Resurrection",
+                        "Resurrezione",
                         59,
                         0x1B92,
                         "An Corp",
@@ -868,7 +868,7 @@ namespace ClassicUO.Game.Data
                     60,
                     new SpellDefinition
                     (
-                        "Air Elemental",
+                        "Elementale d'Aria",
                         60,
                         0x1B93,
                         "Kal Vas Xen Hur",
@@ -882,7 +882,7 @@ namespace ClassicUO.Game.Data
                     61,
                     new SpellDefinition
                     (
-                        "Summon Daemon",
+                        "Evoca Demone",
                         61,
                         0x1B94,
                         "Kal Vas Xen Corp",
@@ -897,7 +897,7 @@ namespace ClassicUO.Game.Data
                     62,
                     new SpellDefinition
                     (
-                        "Earth Elemental",
+                        "Elementale di Terra",
                         62,
                         0x1B95,
                         "Kal Vas Xen Ylem",
@@ -911,7 +911,7 @@ namespace ClassicUO.Game.Data
                     63,
                     new SpellDefinition
                     (
-                        "Fire Elemental",
+                        "Elementale di Fuoco",
                         63,
                         0x1B96,
                         "Kal Vas Xen Flam",
@@ -926,7 +926,7 @@ namespace ClassicUO.Game.Data
                     64,
                     new SpellDefinition
                     (
-                        "Water Elemental",
+                        "Elementale d'Acqua",
                         64,
                         0x1B97,
                         "Kal Vas Xen An Flam",
@@ -946,8 +946,8 @@ namespace ClassicUO.Game.Data
 
         public static string[] CircleNames { get; } =
         {
-            "First Circle", "Second Circle", "Third Circle", "Fourth Circle", "Fifth Circle", "Sixth Circle",
-            "Seventh Circle", "Eighth Circle"
+            "Primo Circolo", "Secondo Circolo", "Terzo Circolo", "Quarto Circolo", "Quinto Circolo", "Sesto Circolo",
+            "Settimo Circolo", "Ottavo Circolo"
         };
 
         public static string[] SpecialReagentsChars

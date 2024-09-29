@@ -181,8 +181,16 @@ namespace ClassicUO.Game.UI.Gumps
                         ButtonAction = ButtonAction.Activate
                     }
                 );
-
-                if (Client.Game.UO.Version < ClientVersion.CV_500A)
+				//JOURNAL Button // Pirates
+                    Add(
+                        new Button((int)Buttons.Journal, 0x7dc, 0x7dd, 0x7de)
+                        {
+                            X = 185,
+                            Y = 44 + 27 * 3,
+                            ButtonAction = ButtonAction.Activate
+                        }
+                    );
+                /*if (Client.Game.UO.Version < ClientVersion.CV_500A) //Pirates - sostiuisco Quest button con Journal
                 {
                     // JOURNAL BUTTON
                     Add(
@@ -205,7 +213,7 @@ namespace ClassicUO.Game.UI.Gumps
                             ButtonAction = ButtonAction.Activate
                         }
                     );
-                }
+                }*/
 
                 // SKILLS BUTTON
                 Add(

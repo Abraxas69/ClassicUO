@@ -48,14 +48,14 @@ namespace ClassicUO.Game.Data
                     1,
                     new SpellDefinition
                     (
-                        "Cleanse by Fire",
+                        "Purificazione del Fuoco",
                         201,
                         0x5100,
                         0x5100,
                         "Expor Flamus",
-                        10,
-                        5,
-                        10,
+                        15,
+                        35,
+                        50,
                         TargetType.Beneficial,
                         Reagents.None
                     )
@@ -64,14 +64,14 @@ namespace ClassicUO.Game.Data
                     2,
                     new SpellDefinition
                     (
-                        "Close Wounds",
+                        "Cicatrizzare",
                         202,
                         0x5101,
                         0x5101,
                         "Obsu Vulni",
-                        10,
-                        0,
-                        10,
+                        15,
+                        35,
+                        50,
                         TargetType.Beneficial,
                         Reagents.None
                     )
@@ -80,14 +80,14 @@ namespace ClassicUO.Game.Data
                     3,
                     new SpellDefinition
                     (
-                        "Consecrate Weapon",
+                        "Consacrare l'Arma",
                         203,
                         0x5102,
                         0x5102,
                         "Consecrus Arma",
-                        10,
                         15,
-                        10,
+                        45,
+                        50,
                         TargetType.Neutral,
                         Reagents.None
                     )
@@ -96,14 +96,14 @@ namespace ClassicUO.Game.Data
                     4,
                     new SpellDefinition
                     (
-                        "Dispel Evil",
+                        "Disperdere il Male",
                         204,
                         0x5103,
                         0x5103,
                         "Dispiro Malas",
-                        10,
-                        35,
-                        10,
+                        20,
+                        55,
+                        70,
                         TargetType.Neutral,
                         Reagents.None
                     )
@@ -112,14 +112,14 @@ namespace ClassicUO.Game.Data
                     5,
                     new SpellDefinition
                     (
-                        "Divine Fury",
+                        "Furia Divina",
                         205,
                         0x5104,
                         0x5104,
                         "Divinum Furis",
-                        10,
-                        25,
-                        10,
+                        15,
+                        55,
+                        70,
                         TargetType.Neutral,
                         Reagents.None
                     )
@@ -128,14 +128,14 @@ namespace ClassicUO.Game.Data
                     6,
                     new SpellDefinition
                     (
-                        "Enemy of One",
+                        "Acerrimo Nemico",
                         206,
                         0x5105,
                         0x5105,
                         "Forul Solum",
                         20,
                         45,
-                        10,
+                        70,
                         TargetType.Neutral,
                         Reagents.None
                     )
@@ -144,14 +144,14 @@ namespace ClassicUO.Game.Data
                     7,
                     new SpellDefinition
                     (
-                        "Holy Light",
+                        "Luce Sacra",
                         207,
                         0x5106,
                         0x5106,
                         "Augus Luminos",
                         20,
                         55,
-                        10,
+                        70,
                         TargetType.Harmful,
                         Reagents.None
                     )
@@ -160,14 +160,14 @@ namespace ClassicUO.Game.Data
                     8,
                     new SpellDefinition
                     (
-                        "Noble Sacrifice",
+                        "Nobile Sacrificio",
                         208,
                         0x5107,
                         0x5107,
                         "Dium Prostra",
-                        20,
+                        50,
                         65,
-                        30,
+                        1000,
                         TargetType.Beneficial,
                         Reagents.None
                     )
@@ -176,14 +176,14 @@ namespace ClassicUO.Game.Data
                     9,
                     new SpellDefinition
                     (
-                        "Remove Curse",
+                        "Rimuovere Maledizione",
                         209,
                         0x5108,
                         0x5108,
                         "Extermo Vomica",
                         20,
                         5,
-                        10,
+                        50,
                         TargetType.Beneficial,
                         Reagents.None
                     )
@@ -192,14 +192,14 @@ namespace ClassicUO.Game.Data
                     10,
                     new SpellDefinition
                     (
-                        "Sacred Journey",
+                        "Viaggio Astrale",
                         210,
                         0x5109,
                         0x5109,
                         "Sanctum Viatas",
-                        20,
-                        5,
-                        10,
+                        60,
+                        100,
+                        1000,
                         TargetType.Neutral,
                         Reagents.None
                     )
